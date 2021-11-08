@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1635252346 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cfnt.cpp
+	"cfnt.h"
+
+1635252372 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cfnt.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	<iostream>
+	<string>
+
+1632120285 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cmusic.cpp
+	"cmusic.h"
+
+1632040801 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cmusic.h
+	<string>
+	<iostream>
+	<vector>
+	<SDL2/SDL_mixer.h>
+
+1632815692 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\collision.cpp
+	"collision.h"
+
+1635240325 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\collision.h
+	<SDL2/SDL.h>
+
+1631693828 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\item.cpp
+	"item.h"
+
+1633170599 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\item.h
+
+1632753522 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\level.cpp
+	"level.h"
+
+1632739375 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\level.h
+	<vector>
+
+1635969591 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"menu.h"
+	"game.h"
+	"snowgame.h"
+	"sblogo.h"
+
+1635239956 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"sprite.h"
+	"cfnt.h"
+	"game.h"
+	"snowgame.h"
+
+1635161424 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\sprite.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<iostream>
+	<string>
+
+1635775202 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\game.h
+	<SDL2/SDL_mixer.h>
+	<time.h>
+	<vector>
+	"sprite.h"
+	"snake.h"
+	"cfnt.h"
+	"clevel.h"
+	"collision.h"
+	"orb.h"
+	"cbombs.h"
+
+1635787422 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\snake.h
+	<SDL2/SDL_mixer.h>
+	<vector>
+	"sprite.h"
+	"segment.h"
+	"collision.h"
+
+1632813746 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\segment.h
+	<vector>
+	<iostream>
+	<collision.h>
+
+1635240325 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\\collision.h
+	<SDL2/SDL.h>
+
+1635969589 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\menu.cpp
+	"menu.h"
+
+1635771082 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\orb.cpp
+
+1635193945 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\orb.h
+	<time.h>
+	"sprite.h"
+
+1632816764 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\segment.cpp
+	"segment.h"
+
+1635789430 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\snake.cpp
+	"snake.h"
+
+1635789536 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\sprite.cpp
+	"sprite.h"
+
+1584209020 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cb\main.cpp
+	<iostream>
+
+1635969415 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\game.cpp
+	"game.h"
+
+1635242358 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\sblogo.h
+	"sprite.h"
+	<SDL2/SDL_mixer.h>
+
+1635789394 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\sblogo.cpp
+	"sblogo.h"
+
+1635164014 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\clevel.h
+	<vector>
+
+1635790734 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cbombs.h
+	<SDL2/SDL_mixer.h>
+	"sprite.h"
+	"collision.h"
+	"snake.h"
+
+1635930700 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\snowgame.h
+	<sstream>
+	<vector>
+	"sprite.h"
+	"icelevel.h"
+	"snake.h"
+	"collision.h"
+	"crobby.h"
+	"cfnt.h"
+	"cbombs.h"
+	"ctimer.h"
+
+1635279396 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\icelevel.h
+	<vector>
+
+1635931345 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\crobby.h
+	<time.h>
+	"sprite.h"
+	<SDL2/SDL_mixer.h>
+
+1635160953 c:\users\cmansfeld\apps\codeblocks\heavy_snakes\ctimer.h
+	<SDL2/SDL.h>
+
+1635857016 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\cbombs.cpp
+	"cbombs.h"
+
+1635788733 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\clevel.cpp
+	"clevel.h"
+
+1635969005 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\crobby.cpp
+	"crobby.h"
+
+1635161014 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\ctimer.cpp
+	"ctimer.h"
+
+1635791094 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\icelevel.cpp
+	"icelevel.h"
+
+1635970352 source:c:\users\cmansfeld\apps\codeblocks\heavy_snakes\snowgame.cpp
+	"snowgame.h"
+
