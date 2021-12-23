@@ -25,3 +25,7 @@ Dependency<br>
 -SDL2_mixer<br>
 -SDL2_image<br>
 -SDL2_ttf<br>
+
+![Main Menue](https://raw.githubusercontent.com/guitarlo/HeavySnakes/main/screenshots/Menu.png)
+![The Castle](https://raw.githubusercontent.com/guitarlo/HeavySnakes/main/screenshots/1.png)
+![Ice Cave](https://raw.githubusercontent.com/guitarlo/HeavySnakes/main/screenshots/2.png)
