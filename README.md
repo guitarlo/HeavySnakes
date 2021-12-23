@@ -1,5 +1,10 @@
 # HeavySnakes
 Snake game with a twist.
+- You can play with 2 Player
+- You can eat each others segments
+- Controller support
+- 2 Level
+
 <br>
 Controller:
 Press the direction button to move. <br>
