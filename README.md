@@ -3,7 +3,8 @@ Snake game with a twist.
 - You can play with 2 Player
 - You can eat each others segments
 - Controller support
-- 2 Level
+- 2 Levels
+- Awesome Soundtrack ;)
 
 <br>
 Controller:
